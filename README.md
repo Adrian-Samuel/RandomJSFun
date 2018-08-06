@@ -1,1 +1,3 @@
 # RandomJSFun
+
+// Fun with Javascript
